@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/eydev/eydev/blob/main/profile_banner.png?raw=true" />
+<img align="center" src="https://github.com/eydev/eydev/blob/master/profile_banner.png?raw=true" />
 <br>
 
 <p align="center">
@@ -151,5 +151,5 @@
     <br>
     <h2>📑 My Favorites Quote 📑</h2>
     <br>
-    <img src="https://github.com/eydev/eydev/blob/main/quote.png?raw=true">
+    <img src="https://github.com/eydev/eydev/blob/master/quote.png?raw=true">
 </div>
