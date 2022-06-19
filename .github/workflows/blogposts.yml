@@ -1,5 +1,8 @@
 name: Blog post workflow
 on:
+  push:
+    branches:
+      - master
   schedule:
     # Runs every day at 3pm UTC (11pm SG)
     - cron: "0 15 * * *"
