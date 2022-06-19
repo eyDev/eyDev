@@ -47,7 +47,7 @@
     <span>
         <img src="https://img.shields.io/badge/JavaScript-20232a?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
     </span>
-    <br>
+    &nbsp;
     <span>
         <img src="https://img.shields.io/badge/TypeScript-20232a?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
     </span>
