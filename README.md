@@ -143,9 +143,10 @@
     <br>
     <h2>✍ My Latest Posts ✍</h2>
     <br>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
 </div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
     <br>
