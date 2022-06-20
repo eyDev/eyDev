@@ -146,6 +146,10 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11, what&#39;s new?](https://eydev.club/post/windows-11-news)
+- [Installing Windows 11 Insider Preview](https://eydev.club/post/installing-windows-11)
+- [Controlling WS2811 led strip with an application in Flutter and a NodeMCU ESP8266 as a server](https://eydev.club/post/controlling-ws2811-led-strip-with-flutter-and-esp8266-nodemcu)
+- [Hello World!](https://eydev.club/post/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
